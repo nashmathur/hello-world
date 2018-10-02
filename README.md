@@ -2,4 +2,4 @@
 
 This is Natansh Mathur!
 
-I am a CS major fresher at IIT-Roorkee and new to the World of Programming!
+I am a CS major sophomore at IIT-Roorkee and have experience in the World of Programming!
